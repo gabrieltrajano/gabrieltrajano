@@ -1,12 +1,12 @@
 ## Olá, eu sou o Gabriel Trajano 😄
-Estou estudando para a área de Testes/QA 🚀
+Estou estudando para a área de QA e Automação de testes 🚀
 <br/>
 
 ![GabrielTrajano's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltrajano&theme=blue-green)
 <br/>
 
 
-## Tecnologias que eu uso: 
+## Algumas das tecnologias que utilizo: 
 <div>
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
